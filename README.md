@@ -4,7 +4,6 @@
 docker-compose build
 docker-compose up -d
 ```
-```
 
 No vscode, com extensão docker, clicar em attach shell, depois subir o Ambiente virtual:
 
